@@ -3,27 +3,27 @@ import { Outlet, Link } from 'react-router-dom';
 
 const slides = [
   {
-    image: '/src/assets/images/hero-workshop.jpg',
+    image: 'https://res.cloudinary.com/dqkclqqlw/image/upload/v1783660206/craftlocal/hero/banner-kh%C3%A1m-ph%C3%A1-workshop-v%C4%83n-h%C3%B3a.jpg',
     title: 'Khám phá Workshop Văn hóa',
     subtitle: 'Trải nghiệm nghề thủ công truyền thống cùng nghệ nhân địa phương',
   },
   {
-    image: '/src/assets/images/pottery-workshop.jpg',
+    image: 'https://res.cloudinary.com/dqkclqqlw/image/upload/v1783659944/craftlocal/hero/pottery-workshop.jpg',
     title: 'Nghệ thuật Gốm sứ',
     subtitle: 'Tự tay tạo nên những tác phẩm gốm độc đáo tại làng nghề',
   },
   {
-    image: '/src/assets/images/lantern-workshop.jpg',
+    image: 'https://res.cloudinary.com/dqkclqqlw/image/upload/v1783659945/craftlocal/hero/lantern-workshop.jpg',
     title: 'Đèn lồng Hội An',
     subtitle: 'Học cách làm đèn lồng truyền thống dưới bàn tay nghệ nhân',
   },
   {
-    image: '/src/assets/images/textile-workshop.jpg',
+    image: 'https://res.cloudinary.com/dqkclqqlw/image/upload/v1783659947/craftlocal/hero/textile-workshop.jpg',
     title: 'Dệt vải truyền thống',
     subtitle: 'Khám phá nghệ thuật dệt vải với những họa tiết văn hóa đặc sắc',
   },
   {
-    image: '/src/assets/images/artisan-story.jpg',
+    image: 'https://res.cloudinary.com/dqkclqqlw/image/upload/v1783659948/craftlocal/hero/artisan-story.jpg',
     title: 'Câu chuyện Nghệ nhân',
     subtitle: 'Lắng nghe và kết nối với những người giữ hồn văn hóa Việt',
   },
