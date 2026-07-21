@@ -190,7 +190,7 @@ export class NotificationService {
   /**
    * Xóa tất cả notification đã đọc
    */
-  static async clearRead(userId: string) {
+  static async clearRead(userId: string): Promise<{ deletedCount?: number }> {
     const result = await Notification.deleteMany({ userId, isRead: true });
     return result;
   }
