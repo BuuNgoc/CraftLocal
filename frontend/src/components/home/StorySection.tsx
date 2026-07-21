@@ -1,11 +1,19 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import artisanStoryImg from '../../assets/images/artisan-story.jpg';
 
 const StorySection: React.FC = () => (
   <section className="py-16 md:py-24 max-w-[1280px] mx-auto px-5 md:px-8 lg:px-16">
     <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-      <div className="rounded-2xl overflow-hidden shadow-xl">
-        <img src="https://res.cloudinary.com/dqkclqqlw/image/upload/v1783659948/craftlocal/hero/artisan-story.jpg" alt="Câu chuyện nghệ nhân" className="w-full h-[400px] object-cover" />
+      <div className="rounded-2xl overflow-hidden shadow-xl bg-amber-50 min-h-[300px]">
+        <img
+          src={artisanStoryImg}
+          alt="Câu chuyện nghệ nhân"
+          className="w-full h-[400px] object-cover"
+          onError={(e) => {
+            (e.target as HTMLImageElement).src = 'https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=800&q=80';
+          }}
+        />
       </div>
       <div>
         <span className="text-primary font-semibold text-sm tracking-wider uppercase">Sứ mệnh của chúng tôi</span>

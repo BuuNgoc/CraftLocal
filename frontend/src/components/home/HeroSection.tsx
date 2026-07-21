@@ -2,9 +2,24 @@ import React, { useState, useEffect, useCallback } from 'react';
 import SearchBox from './SearchBox';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 
+import heroWorkshopImg from '../../assets/images/hero-workshop.jpg';
+import potteryWorkshopImg from '../../assets/images/pottery-workshop.jpg';
+import lanternWorkshopImg from '../../assets/images/lantern-workshop.jpg';
+import textileWorkshopImg from '../../assets/images/textile-workshop.jpg';
+import artisanStoryImg from '../../assets/images/artisan-story.jpg';
+
+const fallbackImages = [
+  'https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?auto=format&fit=crop&w=1200&q=80',
+  'https://images.unsplash.com/photo-1578749556568-bc2c40e68b61?auto=format&fit=crop&w=1200&q=80',
+  'https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=1200&q=80',
+  'https://images.unsplash.com/photo-1606744837616-56c9a5c6a6eb?auto=format&fit=crop&w=1200&q=80',
+  'https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=1200&q=80',
+];
+
 const slides = [
   {
-    image: 'https://res.cloudinary.com/dqkclqqlw/image/upload/v1783660206/craftlocal/hero/banner-kh%C3%A1m-ph%C3%A1-workshop-v%C4%83n-h%C3%B3a.jpg',
+    image: heroWorkshopImg,
+    fallback: fallbackImages[0],
     gradient: 'from-amber-900/80 via-orange-800/60 to-yellow-900/80',
     emoji: '🏺',
     title: 'Khám phá workshop văn hóa',
@@ -12,7 +27,8 @@ const slides = [
     desc: 'Đặt lịch trải nghiệm thực tế, gặp gỡ nghệ nhân địa phương và mang về những sản phẩm thủ công đầy ý nghĩa.',
   },
   {
-    image: 'https://res.cloudinary.com/dqkclqqlw/image/upload/v1783659944/craftlocal/hero/pottery-workshop.jpg',
+    image: potteryWorkshopImg,
+    fallback: fallbackImages[1],
     gradient: 'from-stone-800/80 via-amber-800/60 to-orange-900/80',
     emoji: '🎨',
     title: 'Nghệ thuật gốm sứ',
@@ -20,7 +36,8 @@ const slides = [
     desc: 'Tự tay tạo nên những tác phẩm gốm độc đáo dưới sự hướng dẫn của nghệ nhân tại làng nghề truyền thống.',
   },
   {
-    image: 'https://res.cloudinary.com/dqkclqqlw/image/upload/v1783659945/craftlocal/hero/lantern-workshop.jpg',
+    image: lanternWorkshopImg,
+    fallback: fallbackImages[2],
     gradient: 'from-red-900/80 via-orange-800/60 to-amber-900/80',
     emoji: '🏮',
     title: 'Đèn lồng Hội An',
@@ -28,7 +45,8 @@ const slides = [
     desc: 'Học cách làm đèn lồng truyền thống và mang về một phần linh hồn phố cổ Hội An.',
   },
   {
-    image: 'https://res.cloudinary.com/dqkclqqlw/image/upload/v1783659947/craftlocal/hero/textile-workshop.jpg',
+    image: textileWorkshopImg,
+    fallback: fallbackImages[3],
     gradient: 'from-emerald-900/80 via-teal-800/60 to-cyan-900/80',
     emoji: '🧶',
     title: 'Dệt vải thủ công',
@@ -36,7 +54,8 @@ const slides = [
     desc: 'Khám phá nghệ thuật dệt vải với những họa tiết văn hóa đặc sắc từ vùng cao Tây Bắc.',
   },
   {
-    image: 'https://res.cloudinary.com/dqkclqqlw/image/upload/v1783659948/craftlocal/hero/artisan-story.jpg',
+    image: artisanStoryImg,
+    fallback: fallbackImages[4],
     gradient: 'from-yellow-900/80 via-amber-800/60 to-orange-900/80',
     emoji: '✨',
     title: 'Câu chuyện nghệ nhân',
@@ -87,6 +106,9 @@ const HeroSection: React.FC = () => {
             alt={slide.title}
             className="absolute inset-0 w-full h-full object-cover"
             loading={index === 0 ? 'eager' : 'lazy'}
+            onError={(e) => {
+              (e.target as HTMLImageElement).src = slide.fallback;
+            }}
           />
           {/* Gradient overlay for text readability */}
           <div className={`absolute inset-0 bg-gradient-to-br ${slide.gradient}`} />

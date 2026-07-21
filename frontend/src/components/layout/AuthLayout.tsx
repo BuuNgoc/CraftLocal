@@ -1,29 +1,48 @@
 import React, { useState, useEffect } from 'react';
 import { Outlet, Link } from 'react-router-dom';
 
+import heroWorkshopImg from '../../assets/images/hero-workshop.jpg';
+import potteryWorkshopImg from '../../assets/images/pottery-workshop.jpg';
+import lanternWorkshopImg from '../../assets/images/lantern-workshop.jpg';
+import textileWorkshopImg from '../../assets/images/textile-workshop.jpg';
+import artisanStoryImg from '../../assets/images/artisan-story.jpg';
+
+const fallbackImages = [
+  'https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?auto=format&fit=crop&w=1000&q=80',
+  'https://images.unsplash.com/photo-1578749556568-bc2c40e68b61?auto=format&fit=crop&w=1000&q=80',
+  'https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=1000&q=80',
+  'https://images.unsplash.com/photo-1606744837616-56c9a5c6a6eb?auto=format&fit=crop&w=1000&q=80',
+  'https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=1000&q=80',
+];
+
 const slides = [
   {
-    image: 'https://res.cloudinary.com/dqkclqqlw/image/upload/v1783660206/craftlocal/hero/banner-kh%C3%A1m-ph%C3%A1-workshop-v%C4%83n-h%C3%B3a.jpg',
+    image: heroWorkshopImg,
+    fallback: fallbackImages[0],
     title: 'Khám phá Workshop Văn hóa',
     subtitle: 'Trải nghiệm nghề thủ công truyền thống cùng nghệ nhân địa phương',
   },
   {
-    image: 'https://res.cloudinary.com/dqkclqqlw/image/upload/v1783659944/craftlocal/hero/pottery-workshop.jpg',
+    image: potteryWorkshopImg,
+    fallback: fallbackImages[1],
     title: 'Nghệ thuật Gốm sứ',
     subtitle: 'Tự tay tạo nên những tác phẩm gốm độc đáo tại làng nghề',
   },
   {
-    image: 'https://res.cloudinary.com/dqkclqqlw/image/upload/v1783659945/craftlocal/hero/lantern-workshop.jpg',
+    image: lanternWorkshopImg,
+    fallback: fallbackImages[2],
     title: 'Đèn lồng Hội An',
     subtitle: 'Học cách làm đèn lồng truyền thống dưới bàn tay nghệ nhân',
   },
   {
-    image: 'https://res.cloudinary.com/dqkclqqlw/image/upload/v1783659947/craftlocal/hero/textile-workshop.jpg',
+    image: textileWorkshopImg,
+    fallback: fallbackImages[3],
     title: 'Dệt vải truyền thống',
     subtitle: 'Khám phá nghệ thuật dệt vải với những họa tiết văn hóa đặc sắc',
   },
   {
-    image: 'https://res.cloudinary.com/dqkclqqlw/image/upload/v1783659948/craftlocal/hero/artisan-story.jpg',
+    image: artisanStoryImg,
+    fallback: fallbackImages[4],
     title: 'Câu chuyện Nghệ nhân',
     subtitle: 'Lắng nghe và kết nối với những người giữ hồn văn hóa Việt',
   },
@@ -42,7 +61,7 @@ const AuthLayout: React.FC = () => {
   return (
     <div className="min-h-screen bg-[#F7F8FA] flex">
       {/* Left image carousel panel */}
-      <div className="hidden lg:flex lg:w-1/2 relative overflow-hidden">
+      <div className="hidden lg:flex lg:w-1/2 relative overflow-hidden bg-slate-900">
         {/* Slideshow images */}
         {slides.map((slide, index) => (
           <div
@@ -57,6 +76,9 @@ const AuthLayout: React.FC = () => {
               src={slide.image}
               alt={slide.title}
               className="w-full h-full object-cover"
+              onError={(e) => {
+                (e.target as HTMLImageElement).src = slide.fallback;
+              }}
             />
           </div>
         ))}
@@ -145,6 +167,9 @@ const AuthLayout: React.FC = () => {
                   alt={slide.title}
                   className="absolute inset-0 w-full h-full object-cover transition-opacity duration-[1200ms]"
                   style={{ opacity: index === currentSlide ? 1 : 0 }}
+                  onError={(e) => {
+                    (e.target as HTMLImageElement).src = slide.fallback;
+                  }}
                 />
               ))}
               <div className="absolute inset-0 bg-gradient-to-b from-[#0F172A]/40 to-[#F7F8FA]" />
