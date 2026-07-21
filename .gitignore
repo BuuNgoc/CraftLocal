@@ -1,0 +1,47 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build outputs
+dist/
+build/
+
+# Environment variables (SENSITIVE - never commit)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Uploads (large binary files - optional)
+# server/uploads/images/
+
+# Cloudinary mapping (contains URLs, not secrets)
+# cloudinary-mapping.json
+
+# Test artifacts
+coverage/
+.nyc_output/
+
+# Temp
+*.tmp
+*.temp

@@ -1,0 +1,1090 @@
+[
+  {
+    "originalFileName": "Bình gốm trang trí.jpeg",
+    "localPath": "server/uploads/images/product/Bình gốm trang trí.jpeg",
+    "type": "product",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135729/craftlocal/products/Binh_gom_trang_tri.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135729/craftlocal/products/Binh_gom_trang_tri.jpg",
+    "publicId": "craftlocal/products/Binh_gom_trang_tri"
+  },
+  {
+    "originalFileName": "Bộ cờ vua đá.jpg",
+    "localPath": "server/uploads/images/product/Bộ cờ vua đá.jpg",
+    "type": "product",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135730/craftlocal/products/Bo_co_vua_da.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135730/craftlocal/products/Bo_co_vua_da.jpg",
+    "publicId": "craftlocal/products/Bo_co_vua_da"
+  },
+  {
+    "originalFileName": "Bộ gia vị thảo mộc.jpg",
+    "localPath": "server/uploads/images/product/Bộ gia vị thảo mộc.jpg",
+    "type": "product",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135731/craftlocal/products/Bo_gia_vi_thao_moc.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135731/craftlocal/products/Bo_gia_vi_thao_moc.jpg",
+    "publicId": "craftlocal/products/Bo_gia_vi_thao_moc"
+  },
+  {
+    "originalFileName": "Chặn giấy đá.jpg",
+    "localPath": "server/uploads/images/product/Chặn giấy đá.jpg",
+    "type": "product",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135732/craftlocal/products/Chan_giay_da.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135732/craftlocal/products/Chan_giay_da.jpg",
+    "publicId": "craftlocal/products/Chan_giay_da"
+  },
+  {
+    "originalFileName": "Cà phê rang mộc.jpg",
+    "localPath": "server/uploads/images/product/Cà phê rang mộc.jpg",
+    "type": "product",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135733/craftlocal/products/Ca_phe_rang_moc.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135733/craftlocal/products/Ca_phe_rang_moc.jpg",
+    "publicId": "craftlocal/products/Ca_phe_rang_moc"
+  },
+  {
+    "originalFileName": "Giỏ tre đan Cẩm Thanh.jpg",
+    "localPath": "server/uploads/images/product/Giỏ tre đan Cẩm Thanh.jpg",
+    "type": "product",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135734/craftlocal/products/Gio_tre_dan_Cam_Thanh.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135734/craftlocal/products/Gio_tre_dan_Cam_Thanh.jpg",
+    "publicId": "craftlocal/products/Gio_tre_dan_Cam_Thanh"
+  },
+  {
+    "originalFileName": "Hộp sơn mài trang trí.jpg",
+    "localPath": "server/uploads/images/product/Hộp sơn mài trang trí.jpg",
+    "type": "product",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135735/craftlocal/products/Hop_son_mai_trang_tri.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135735/craftlocal/products/Hop_son_mai_trang_tri.jpg",
+    "publicId": "craftlocal/products/Hop_son_mai_trang_tri"
+  },
+  {
+    "originalFileName": "Khay tre phục vụ.jpg",
+    "localPath": "server/uploads/images/product/Khay tre phục vụ.jpg",
+    "type": "product",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135736/craftlocal/products/Khay_tre_phuc_vu.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135736/craftlocal/products/Khay_tre_phuc_vu.jpg",
+    "publicId": "craftlocal/products/Khay_tre_phuc_vu"
+  },
+  {
+    "originalFileName": "Khăn Choàng Thổ Cẩm.jpg",
+    "localPath": "server/uploads/images/product/Khăn Choàng Thổ Cẩm.jpg",
+    "type": "product",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135737/craftlocal/products/Khan_Choang_Tho_Cam.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135737/craftlocal/products/Khan_Choang_Tho_Cam.jpg",
+    "publicId": "craftlocal/products/Khan_Choang_Tho_Cam"
+  },
+  {
+    "originalFileName": "Ly cà phê gốm.jpg",
+    "localPath": "server/uploads/images/product/Ly cà phê gốm.jpg",
+    "type": "product",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135738/craftlocal/products/Ly_ca_phe_gom.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135738/craftlocal/products/Ly_ca_phe_gom.jpg",
+    "publicId": "craftlocal/products/Ly_ca_phe_gom"
+  },
+  {
+    "originalFileName": "Mắm ruốc Hội An.png",
+    "localPath": "server/uploads/images/product/Mắm ruốc Hội An.png",
+    "type": "product",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135739/craftlocal/products/Mam_ruoc_Hoi_An.png",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135739/craftlocal/products/Mam_ruoc_Hoi_An.png",
+    "publicId": "craftlocal/products/Mam_ruoc_Hoi_An"
+  },
+  {
+    "originalFileName": "Quạt tre cầm tay.jpg",
+    "localPath": "server/uploads/images/product/Quạt tre cầm tay.jpg",
+    "type": "product",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135739/craftlocal/products/Quat_tre_cam_tay.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135739/craftlocal/products/Quat_tre_cam_tay.jpg",
+    "publicId": "craftlocal/products/Quat_tre_cam_tay"
+  },
+  {
+    "originalFileName": "Tranh sơn mài phố cổ.jpg",
+    "localPath": "server/uploads/images/product/Tranh sơn mài phố cổ.jpg",
+    "type": "product",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135741/craftlocal/products/Tranh_son_mai_pho_co.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135741/craftlocal/products/Tranh_son_mai_pho_co.jpg",
+    "publicId": "craftlocal/products/Tranh_son_mai_pho_co"
+  },
+  {
+    "originalFileName": "Tranh vẽ phố cổ.jpg",
+    "localPath": "server/uploads/images/product/Tranh vẽ phố cổ.jpg",
+    "type": "product",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135742/craftlocal/products/Tranh_ve_pho_co.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135742/craftlocal/products/Tranh_ve_pho_co.jpg",
+    "publicId": "craftlocal/products/Tranh_ve_pho_co"
+  },
+  {
+    "originalFileName": "Trà thảo mộc detox.jpeg",
+    "localPath": "server/uploads/images/product/Trà thảo mộc detox.jpeg",
+    "type": "product",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135743/craftlocal/products/Tra_thao_moc_detox.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135743/craftlocal/products/Tra_thao_moc_detox.jpg",
+    "publicId": "craftlocal/products/Tra_thao_moc_detox"
+  },
+  {
+    "originalFileName": "Túi mây tre.jpg",
+    "localPath": "server/uploads/images/product/Túi mây tre.jpg",
+    "type": "product",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135744/craftlocal/products/Tui_may_tre.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135744/craftlocal/products/Tui_may_tre.jpg",
+    "publicId": "craftlocal/products/Tui_may_tre"
+  },
+  {
+    "originalFileName": "Túi vải thổ cẩm.jpg",
+    "localPath": "server/uploads/images/product/Túi vải thổ cẩm.jpg",
+    "type": "product",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135745/craftlocal/products/Tui_vai_tho_cam.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135745/craftlocal/products/Tui_vai_tho_cam.jpg",
+    "publicId": "craftlocal/products/Tui_vai_tho_cam"
+  },
+  {
+    "originalFileName": "Tương ớt Hội An.jpg",
+    "localPath": "server/uploads/images/product/Tương ớt Hội An.jpg",
+    "type": "product",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135746/craftlocal/products/Tuong_ot_Hoi_An.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135746/craftlocal/products/Tuong_ot_Hoi_An.jpg",
+    "publicId": "craftlocal/products/Tuong_ot_Hoi_An"
+  },
+  {
+    "originalFileName": "Tượng đá mỹ nghệ Non Nước.jpg",
+    "localPath": "server/uploads/images/product/Tượng đá mỹ nghệ Non Nước.jpg",
+    "type": "product",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135746/craftlocal/products/Tuong_da_my_nghe_Non_Nuoc.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135746/craftlocal/products/Tuong_da_my_nghe_Non_Nuoc.jpg",
+    "publicId": "craftlocal/products/Tuong_da_my_nghe_Non_Nuoc"
+  },
+  {
+    "originalFileName": "Ví thổ cẩm.jpg",
+    "localPath": "server/uploads/images/product/Ví thổ cẩm.jpg",
+    "type": "product",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135748/craftlocal/products/Vi_tho_cam.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135748/craftlocal/products/Vi_tho_cam.jpg",
+    "publicId": "craftlocal/products/Vi_tho_cam"
+  },
+  {
+    "originalFileName": "Vòng tay tre.webp",
+    "localPath": "server/uploads/images/product/Vòng tay tre.webp",
+    "type": "product",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135749/craftlocal/products/Vong_tay_tre.webp",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135749/craftlocal/products/Vong_tay_tre.webp",
+    "publicId": "craftlocal/products/Vong_tay_tre"
+  },
+  {
+    "originalFileName": "Đèn lồng lụa Hội An.jpg",
+    "localPath": "server/uploads/images/product/Đèn lồng lụa Hội An.jpg",
+    "type": "product",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135750/craftlocal/products/Den_long_lua_Hoi_An.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135750/craftlocal/products/Den_long_lua_Hoi_An.jpg",
+    "publicId": "craftlocal/products/Den_long_lua_Hoi_An"
+  },
+  {
+    "originalFileName": "Đèn tre trang trí.jpg",
+    "localPath": "server/uploads/images/product/Đèn tre trang trí.jpg",
+    "type": "product",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135751/craftlocal/products/Den_tre_trang_tri.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135751/craftlocal/products/Den_tre_trang_tri.jpg",
+    "publicId": "craftlocal/products/Den_tre_trang_tri"
+  },
+  {
+    "originalFileName": "Đĩa gốm trang trí.webp",
+    "localPath": "server/uploads/images/product/Đĩa gốm trang trí.webp",
+    "type": "product",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135752/craftlocal/products/Dia_gom_trang_tri.webp",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135752/craftlocal/products/Dia_gom_trang_tri.webp",
+    "publicId": "craftlocal/products/Dia_gom_trang_tri"
+  },
+  {
+    "originalFileName": "da bong 11.jpg",
+    "localPath": "server/uploads/images/workshop/da bong 11.jpg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135754/craftlocal/workshops/da_bong_11.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135754/craftlocal/workshops/da_bong_11.jpg",
+    "publicId": "craftlocal/workshops/da_bong_11"
+  },
+  {
+    "originalFileName": "da bong 5h.jpg",
+    "localPath": "server/uploads/images/workshop/da bong 5h.jpg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135755/craftlocal/workshops/da_bong_5h.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135755/craftlocal/workshops/da_bong_5h.jpg",
+    "publicId": "craftlocal/workshops/da_bong_5h"
+  },
+  {
+    "originalFileName": "Gốm nghệ thuật đương đại.jpg",
+    "localPath": "server/uploads/images/workshop/Gốm nghệ thuật đương đại.jpg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135756/craftlocal/workshops/Gom_nghe_thuat_duong_dai.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135756/craftlocal/workshops/Gom_nghe_thuat_duong_dai.jpg",
+    "publicId": "craftlocal/workshops/Gom_nghe_thuat_duong_dai"
+  },
+  {
+    "originalFileName": "Lớp bánh mì Việt Nam truyền thống.jpg",
+    "localPath": "server/uploads/images/workshop/Lớp bánh mì Việt Nam truyền thống.jpg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135756/craftlocal/workshops/Lop_banh_mi_Viet_Nam_truyen_thong.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135756/craftlocal/workshops/Lop_banh_mi_Viet_Nam_truyen_thong.jpg",
+    "publicId": "craftlocal/workshops/Lop_banh_mi_Viet_Nam_truyen_thong"
+  },
+  {
+    "originalFileName": "Lớp nấu ăn làng rau Trà Quế.jpg",
+    "localPath": "server/uploads/images/workshop/Lớp nấu ăn làng rau Trà Quế.jpg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135757/craftlocal/workshops/Lop_nau_an_lang_rau_Tra_Que.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135757/craftlocal/workshops/Lop_nau_an_lang_rau_Tra_Que.jpg",
+    "publicId": "craftlocal/workshops/Lop_nau_an_lang_rau_Tra_Que"
+  },
+  {
+    "originalFileName": "Nấu phở truyền thống.jpg",
+    "localPath": "server/uploads/images/workshop/Nấu phở truyền thống.jpg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135758/craftlocal/workshops/Nau_pho_truyen_thong.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135758/craftlocal/workshops/Nau_pho_truyen_thong.jpg",
+    "publicId": "craftlocal/workshops/Nau_pho_truyen_thong"
+  },
+  {
+    "originalFileName": "Tour ẩm thực biển Mỹ Khê.webp",
+    "localPath": "server/uploads/images/workshop/Tour ẩm thực biển Mỹ Khê.webp",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135759/craftlocal/workshops/Tour_am_thuc_bien_My_Khe.webp",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135759/craftlocal/workshops/Tour_am_thuc_bien_My_Khe.webp",
+    "publicId": "craftlocal/workshops/Tour_am_thuc_bien_My_Khe"
+  },
+  {
+    "originalFileName": "Trải nghiệm làm gốm Thanh Hà.jpg",
+    "localPath": "server/uploads/images/workshop/Trải nghiệm làm gốm Thanh Hà.jpg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135761/craftlocal/workshops/Trai_nghiem_lam_gom_Thanh_Ha.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135761/craftlocal/workshops/Trai_nghiem_lam_gom_Thanh_Ha.jpg",
+    "publicId": "craftlocal/workshops/Trai_nghiem_lam_gom_Thanh_Ha"
+  },
+  {
+    "originalFileName": "Trải nghiệm làm đèn lồng Hội An.jpg",
+    "localPath": "server/uploads/images/workshop/Trải nghiệm làm đèn lồng Hội An.jpg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135762/craftlocal/workshops/Trai_nghiem_lam_den_long_Hoi_An.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135762/craftlocal/workshops/Trai_nghiem_lam_den_long_Hoi_An.jpg",
+    "publicId": "craftlocal/workshops/Trai_nghiem_lam_den_long_Hoi_An"
+  },
+  {
+    "originalFileName": "Trải nghiệm trà đạo Việt Nam.png",
+    "localPath": "server/uploads/images/workshop/Trải nghiệm trà đạo Việt Nam.png",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135762/craftlocal/workshops/Trai_nghiem_tra_dao_Viet_Nam.png",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135762/craftlocal/workshops/Trai_nghiem_tra_dao_Viet_Nam.png",
+    "publicId": "craftlocal/workshops/Trai_nghiem_tra_dao_Viet_Nam"
+  },
+  {
+    "originalFileName": "Trải nghiệm văn hóa Ngũ Hành Sơn.jpg",
+    "localPath": "server/uploads/images/workshop/Trải nghiệm văn hóa Ngũ Hành Sơn.jpg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135763/craftlocal/workshops/Trai_nghiem_van_hoa_Ngu_Hanh_Son.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135763/craftlocal/workshops/Trai_nghiem_van_hoa_Ngu_Hanh_Son.jpg",
+    "publicId": "craftlocal/workshops/Trai_nghiem_van_hoa_Ngu_Hanh_Son"
+  },
+  {
+    "originalFileName": "Tạc tượng Phật đá mini.webp",
+    "localPath": "server/uploads/images/workshop/Tạc tượng Phật đá mini.webp",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135765/craftlocal/workshops/Tac_tuong_Phat_da_mini.webp",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135765/craftlocal/workshops/Tac_tuong_Phat_da_mini.webp",
+    "publicId": "craftlocal/workshops/Tac_tuong_Phat_da_mini"
+  },
+  {
+    "originalFileName": "Vẽ tranh phố cổ Hội An.jpg",
+    "localPath": "server/uploads/images/workshop/Vẽ tranh phố cổ Hội An.jpg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135765/craftlocal/workshops/Ve_tranh_pho_co_Hoi_An.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135765/craftlocal/workshops/Ve_tranh_pho_co_Hoi_An.jpg",
+    "publicId": "craftlocal/workshops/Ve_tranh_pho_co_Hoi_An"
+  },
+  {
+    "originalFileName": "Workshop cà phê phin và thảo mộc.jpeg",
+    "localPath": "server/uploads/images/workshop/Workshop cà phê phin và thảo mộc.jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135767/craftlocal/workshops/Workshop_ca_phe_phin_va_thao_moc.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135767/craftlocal/workshops/Workshop_ca_phe_phin_va_thao_moc.jpg",
+    "publicId": "craftlocal/workshops/Workshop_ca_phe_phin_va_thao_moc"
+  },
+  {
+    "originalFileName": "Workshop dệt vải và thổ cẩm.webp",
+    "localPath": "server/uploads/images/workshop/Workshop dệt vải và thổ cẩm.webp",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135768/craftlocal/workshops/Workshop_det_vai_va_tho_cam.webp",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135768/craftlocal/workshops/Workshop_det_vai_va_tho_cam.webp",
+    "publicId": "craftlocal/workshops/Workshop_det_vai_va_tho_cam"
+  },
+  {
+    "originalFileName": "Workshop mây tre đan Cẩm Thanh.jpg",
+    "localPath": "server/uploads/images/workshop/Workshop mây tre đan Cẩm Thanh.jpg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135769/craftlocal/workshops/Workshop_may_tre_dan_Cam_Thanh.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135769/craftlocal/workshops/Workshop_may_tre_dan_Cam_Thanh.jpg",
+    "publicId": "craftlocal/workshops/Workshop_may_tre_dan_Cam_Thanh"
+  },
+  {
+    "originalFileName": "Workshop nhuộm vải tự nhiên Nam Ô.jpg",
+    "localPath": "server/uploads/images/workshop/Workshop nhuộm vải tự nhiên Nam Ô.jpg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135769/craftlocal/workshops/Workshop_nhuom_vai_tu_nhien_Nam_O.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135769/craftlocal/workshops/Workshop_nhuom_vai_tu_nhien_Nam_O.jpg",
+    "publicId": "craftlocal/workshops/Workshop_nhuom_vai_tu_nhien_Nam_O"
+  },
+  {
+    "originalFileName": "Workshop sơn mài và tranh thủ công.jpg",
+    "localPath": "server/uploads/images/workshop/Workshop sơn mài và tranh thủ công.jpg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135770/craftlocal/workshops/Workshop_son_mai_va_tranh_thu_cong.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135770/craftlocal/workshops/Workshop_son_mai_va_tranh_thu_cong.jpg",
+    "publicId": "craftlocal/workshops/Workshop_son_mai_va_tranh_thu_cong"
+  },
+  {
+    "originalFileName": "Workshop điêu khắc đá Non Nước.webp",
+    "localPath": "server/uploads/images/workshop/Workshop điêu khắc đá Non Nước.webp",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135771/craftlocal/workshops/Workshop_dieu_khac_da_Non_Nuoc.webp",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135771/craftlocal/workshops/Workshop_dieu_khac_da_Non_Nuoc.webp",
+    "publicId": "craftlocal/workshops/Workshop_dieu_khac_da_Non_Nuoc"
+  },
+  {
+    "originalFileName": "Đan giỏ tre An Bàng.jpg",
+    "localPath": "server/uploads/images/workshop/Đan giỏ tre An Bàng.jpg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135772/craftlocal/workshops/Dan_gio_tre_An_Bang.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135772/craftlocal/workshops/Dan_gio_tre_An_Bang.jpg",
+    "publicId": "craftlocal/workshops/Dan_gio_tre_An_Bang"
+  },
+  {
+    "originalFileName": "Đan thuyền thúng Cẩm Kim.jpg",
+    "localPath": "server/uploads/images/workshop/Đan thuyền thúng Cẩm Kim.jpg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135773/craftlocal/workshops/Dan_thuyen_thung_Cam_Kim.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135773/craftlocal/workshops/Dan_thuyen_thung_Cam_Kim.jpg",
+    "publicId": "craftlocal/workshops/Dan_thuyen_thung_Cam_Kim"
+  },
+  {
+    "originalFileName": "Đèn lồng lụa cao cấp.webp",
+    "localPath": "server/uploads/images/workshop/Đèn lồng lụa cao cấp.webp",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135774/craftlocal/workshops/Den_long_lua_cao_cap.webp",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135774/craftlocal/workshops/Den_long_lua_cao_cap.webp",
+    "publicId": "craftlocal/workshops/Den_long_lua_cao_cap"
+  },
+  {
+    "originalFileName": "Cà phê & thảo mộc.jpg",
+    "localPath": "server/uploads/images/categories+workshops/Cà phê & thảo mộc.jpg",
+    "type": "category",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135775/craftlocal/categories/Ca_phe_thao_moc.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135775/craftlocal/categories/Ca_phe_thao_moc.jpg",
+    "publicId": "craftlocal/categories/Ca_phe_thao_moc"
+  },
+  {
+    "originalFileName": "Dệt vải & thổ cẩm.jpg",
+    "localPath": "server/uploads/images/categories+workshops/Dệt vải & thổ cẩm.jpg",
+    "type": "category",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135776/craftlocal/categories/Det_vai_tho_cam.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135776/craftlocal/categories/Det_vai_tho_cam.jpg",
+    "publicId": "craftlocal/categories/Det_vai_tho_cam"
+  },
+  {
+    "originalFileName": "Học kỹ thuật sơn mài truyền thống Việt Nam, tự tay tạo ra tác phẩm sơn….jpg",
+    "localPath": "server/uploads/images/categories+workshops/Học kỹ thuật sơn mài truyền thống Việt Nam, tự tay tạo ra tác phẩm sơn….jpg",
+    "type": "category",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135777/craftlocal/categories/Hoc_ky_thuat_son_mai_truyen_thong_Viet_Nam_tu_tay_tao_ra_tac_pham_son.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135777/craftlocal/categories/Hoc_ky_thuat_son_mai_truyen_thong_Viet_Nam_tu_tay_tao_ra_tac_pham_son.jpg",
+    "publicId": "craftlocal/categories/Hoc_ky_thuat_son_mai_truyen_thong_Viet_Nam_tu_tay_tao_ra_tac_pham_son"
+  },
+  {
+    "originalFileName": "Học làm bánh mì Việt Nam từ A đến Z với đầu bếp địa phương..jpg",
+    "localPath": "server/uploads/images/categories+workshops/Học làm bánh mì Việt Nam từ A đến Z với đầu bếp địa phương..jpg",
+    "type": "category",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135778/craftlocal/categories/Hoc_lam_banh_mi_Viet_Nam_tu_A_den_Z_voi_dau_bep_dia_phuong.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135778/craftlocal/categories/Hoc_lam_banh_mi_Viet_Nam_tu_A_den_Z_voi_dau_bep_dia_phuong.jpg",
+    "publicId": "craftlocal/categories/Hoc_lam_banh_mi_Viet_Nam_tu_A_den_Z_voi_dau_bep_dia_phuong"
+  },
+  {
+    "originalFileName": "Học đan thuyền thúng truyền thống tại làng Cẩm Kim.jpg",
+    "localPath": "server/uploads/images/categories+workshops/Học đan thuyền thúng truyền thống tại làng Cẩm Kim.jpg",
+    "type": "category",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135779/craftlocal/categories/Hoc_dan_thuyen_thung_truyen_thong_tai_lang_Cam_Kim.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135779/craftlocal/categories/Hoc_dan_thuyen_thung_truyen_thong_tai_lang_Cam_Kim.jpg",
+    "publicId": "craftlocal/categories/Hoc_dan_thuyen_thung_truyen_thong_tai_lang_Cam_Kim"
+  },
+  {
+    "originalFileName": "Khám phá nghệ thuật điêu khắc đá cẩm thạch tại làng đá mỹ nghệ Non Nướ….jpg",
+    "localPath": "server/uploads/images/categories+workshops/Khám phá nghệ thuật điêu khắc đá cẩm thạch tại làng đá mỹ nghệ Non Nướ….jpg",
+    "type": "category",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135780/craftlocal/categories/Kham_pha_nghe_thuat_dieu_khac_da_cam_thach_tai_lang_da_my_nghe_Non_Nuo.webp",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135780/craftlocal/categories/Kham_pha_nghe_thuat_dieu_khac_da_cam_thach_tai_lang_da_my_nghe_Non_Nuo.webp",
+    "publicId": "craftlocal/categories/Kham_pha_nghe_thuat_dieu_khac_da_cam_thach_tai_lang_da_my_nghe_Non_Nuo"
+  },
+  {
+    "originalFileName": "Kết hợp kỹ thuật gốm truyền thống với phong cách nghệ thuật đương đại.jpg",
+    "localPath": "server/uploads/images/categories+workshops/Kết hợp kỹ thuật gốm truyền thống với phong cách nghệ thuật đương đại.jpg",
+    "type": "category",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135781/craftlocal/categories/Ket_hop_ky_thuat_gom_truyen_thong_voi_phong_cach_nghe_thuat_duong_dai.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135781/craftlocal/categories/Ket_hop_ky_thuat_gom_truyen_thong_voi_phong_cach_nghe_thuat_duong_dai.jpg",
+    "publicId": "craftlocal/categories/Ket_hop_ky_thuat_gom_truyen_thong_voi_phong_cach_nghe_thuat_duong_dai"
+  },
+  {
+    "originalFileName": "lang-rau-tra-que-12.jpg",
+    "localPath": "server/uploads/images/categories+workshops/lang-rau-tra-que-12.jpg",
+    "type": "category",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135782/craftlocal/categories/lang-rau-tra-que-12.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135782/craftlocal/categories/lang-rau-tra-que-12.jpg",
+    "publicId": "craftlocal/categories/lang-rau-tra-que-12"
+  },
+  {
+    "originalFileName": "lop-hoc-nau-pho-danh-cho-lanh-su-doan-tai-tp-ho-chi-minh-20231125064343.jpg",
+    "localPath": "server/uploads/images/categories+workshops/lop-hoc-nau-pho-danh-cho-lanh-su-doan-tai-tp-ho-chi-minh-20231125064343.jpg",
+    "type": "category",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135783/craftlocal/categories/lop-hoc-nau-pho-danh-cho-lanh-su-doan-tai-tp-ho-chi-minh-20231125064343.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135783/craftlocal/categories/lop-hoc-nau-pho-danh-cho-lanh-su-doan-tai-tp-ho-chi-minh-20231125064343.jpg",
+    "publicId": "craftlocal/categories/lop-hoc-nau-pho-danh-cho-lanh-su-doan-tai-tp-ho-chi-minh-20231125064343"
+  },
+  {
+    "originalFileName": "Làm gốm.jpg",
+    "localPath": "server/uploads/images/categories+workshops/Làm gốm.jpg",
+    "type": "category",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135784/craftlocal/categories/Lam_gom.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135784/craftlocal/categories/Lam_gom.jpg",
+    "publicId": "craftlocal/categories/Lam_gom"
+  },
+  {
+    "originalFileName": "Làm đèn lồng lụa cao cấp với họa tiết vẽ tay, mang về làm quà lưu niệm.jpg",
+    "localPath": "server/uploads/images/categories+workshops/Làm đèn lồng lụa cao cấp với họa tiết vẽ tay, mang về làm quà lưu niệm.jpg",
+    "type": "category",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135785/craftlocal/categories/Lam_den_long_lua_cao_cap_voi_hoa_tiet_ve_tay_mang_ve_lam_qua_luu_niem.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135785/craftlocal/categories/Lam_den_long_lua_cao_cap_voi_hoa_tiet_ve_tay_mang_ve_lam_qua_luu_niem.jpg",
+    "publicId": "craftlocal/categories/Lam_den_long_lua_cao_cap_voi_hoa_tiet_ve_tay_mang_ve_lam_qua_luu_niem"
+  },
+  {
+    "originalFileName": "Làm đèn lồng lụa cao cấp với họa tiết vẽ tay.jpeg",
+    "localPath": "server/uploads/images/categories+workshops/Làm đèn lồng lụa cao cấp với họa tiết vẽ tay.jpeg",
+    "type": "category",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135786/craftlocal/categories/Lam_den_long_lua_cao_cap_voi_hoa_tiet_ve_tay.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135786/craftlocal/categories/Lam_den_long_lua_cao_cap_voi_hoa_tiet_ve_tay.jpg",
+    "publicId": "craftlocal/categories/Lam_den_long_lua_cao_cap_voi_hoa_tiet_ve_tay"
+  },
+  {
+    "originalFileName": "Mây tre đan.jpg",
+    "localPath": "server/uploads/images/categories+workshops/Mây tre đan.jpg",
+    "type": "category",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135787/craftlocal/categories/May_tre_dan.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135787/craftlocal/categories/May_tre_dan.jpg",
+    "publicId": "craftlocal/categories/May_tre_dan"
+  },
+  {
+    "originalFileName": "Nấu phở truyền thống.jpg",
+    "localPath": "server/uploads/images/categories+workshops/Nấu phở truyền thống.jpg",
+    "type": "category",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135788/craftlocal/categories/Nau_pho_truyen_thong.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135788/craftlocal/categories/Nau_pho_truyen_thong.jpg",
+    "publicId": "craftlocal/categories/Nau_pho_truyen_thong"
+  },
+  {
+    "originalFileName": "quá trình Tự tay tạc một bức tượng Phật nhỏ từ đá cẩm thạch Non Nước..jpg",
+    "localPath": "server/uploads/images/categories+workshops/quá trình Tự tay tạc một bức tượng Phật nhỏ từ đá cẩm thạch Non Nước..jpg",
+    "type": "category",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135789/craftlocal/categories/qua_trinh_Tu_tay_tac_mot_buc_tuong_Phat_nho_tu_da_cam_thach_Non_Nuoc.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135789/craftlocal/categories/qua_trinh_Tu_tay_tac_mot_buc_tuong_Phat_nho_tu_da_cam_thach_Non_Nuoc.jpg",
+    "publicId": "craftlocal/categories/qua_trinh_Tu_tay_tac_mot_buc_tuong_Phat_nho_tu_da_cam_thach_Non_Nuoc"
+  },
+  {
+    "originalFileName": "Sơn mài & tranh thủ công.jpg",
+    "localPath": "server/uploads/images/categories+workshops/Sơn mài & tranh thủ công.jpg",
+    "type": "category",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135790/craftlocal/categories/Son_mai_tranh_thu_cong.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135790/craftlocal/categories/Son_mai_tranh_thu_cong.jpg",
+    "publicId": "craftlocal/categories/Son_mai_tranh_thu_cong"
+  },
+  {
+    "originalFileName": "Tour ẩm thực biển Mỹ Khê.jpg",
+    "localPath": "server/uploads/images/categories+workshops/Tour ẩm thực biển Mỹ Khê.jpg",
+    "type": "category",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135791/craftlocal/categories/Tour_am_thuc_bien_My_Khe.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135791/craftlocal/categories/Tour_am_thuc_bien_My_Khe.jpg",
+    "publicId": "craftlocal/categories/Tour_am_thuc_bien_My_Khe"
+  },
+  {
+    "originalFileName": "tranh thủ công.jpg",
+    "localPath": "server/uploads/images/categories+workshops/tranh thủ công.jpg",
+    "type": "category",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135792/craftlocal/categories/tranh_thu_cong.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135792/craftlocal/categories/tranh_thu_cong.jpg",
+    "publicId": "craftlocal/categories/tranh_thu_cong"
+  },
+  {
+    "originalFileName": "Trải nghiệm trà đạo Việt Nam.jpg",
+    "localPath": "server/uploads/images/categories+workshops/Trải nghiệm trà đạo Việt Nam.jpg",
+    "type": "category",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135793/craftlocal/categories/Trai_nghiem_tra_dao_Viet_Nam.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135793/craftlocal/categories/Trai_nghiem_tra_dao_Viet_Nam.jpg",
+    "publicId": "craftlocal/categories/Trai_nghiem_tra_dao_Viet_Nam"
+  },
+  {
+    "originalFileName": "Trải nghiệm văn hóa Ngũ Hành Sơn.jpg",
+    "localPath": "server/uploads/images/categories+workshops/Trải nghiệm văn hóa Ngũ Hành Sơn.jpg",
+    "type": "category",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135794/craftlocal/categories/Trai_nghiem_van_hoa_Ngu_Hanh_Son.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135794/craftlocal/categories/Trai_nghiem_van_hoa_Ngu_Hanh_Son.jpg",
+    "publicId": "craftlocal/categories/Trai_nghiem_van_hoa_Ngu_Hanh_Son"
+  },
+  {
+    "originalFileName": "Tìm hiểu nghệ thuật dệt thổ cẩm truyền thống của đồng bào miền núi .jpg",
+    "localPath": "server/uploads/images/categories+workshops/Tìm hiểu nghệ thuật dệt thổ cẩm truyền thống của đồng bào miền núi .jpg",
+    "type": "category",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135795/craftlocal/categories/Tim_hieu_nghe_thuat_det_tho_cam_truyen_thong_cua_dong_bao_mien_nui.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135795/craftlocal/categories/Tim_hieu_nghe_thuat_det_tho_cam_truyen_thong_cua_dong_bao_mien_nui.jpg",
+    "publicId": "craftlocal/categories/Tim_hieu_nghe_thuat_det_tho_cam_truyen_thong_cua_dong_bao_mien_nui"
+  },
+  {
+    "originalFileName": "Tự tay nặn, tạo hình và trang trí sản phẩm gốm truyền thống dưới sự hư…jpg.jpg",
+    "localPath": "server/uploads/images/categories+workshops/Tự tay nặn, tạo hình và trang trí sản phẩm gốm truyền thống dưới sự hư…jpg.jpg",
+    "type": "category",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135796/craftlocal/categories/Tu_tay_nan_tao_hinh_va_trang_tri_san_pham_gom_truyen_thong_duoi_su_hu_jpg.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135796/craftlocal/categories/Tu_tay_nan_tao_hinh_va_trang_tri_san_pham_gom_truyen_thong_duoi_su_hu_jpg.jpg",
+    "publicId": "craftlocal/categories/Tu_tay_nan_tao_hinh_va_trang_tri_san_pham_gom_truyen_thong_duoi_su_hu_jpg"
+  },
+  {
+    "originalFileName": "vn-11134207-7qukw-lk0xxcnqjk5099.jpg",
+    "localPath": "server/uploads/images/categories+workshops/vn-11134207-7qukw-lk0xxcnqjk5099.jpg",
+    "type": "category",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135797/craftlocal/categories/vn-11134207-7qukw-lk0xxcnqjk5099.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135797/craftlocal/categories/vn-11134207-7qukw-lk0xxcnqjk5099.jpg",
+    "publicId": "craftlocal/categories/vn-11134207-7qukw-lk0xxcnqjk5099"
+  },
+  {
+    "originalFileName": "Workshop cà phê phin và thảo mộc.jpg",
+    "localPath": "server/uploads/images/categories+workshops/Workshop cà phê phin và thảo mộc.jpg",
+    "type": "category",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135798/craftlocal/categories/Workshop_ca_phe_phin_va_thao_moc.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135798/craftlocal/categories/Workshop_ca_phe_phin_va_thao_moc.jpg",
+    "publicId": "craftlocal/categories/Workshop_ca_phe_phin_va_thao_moc"
+  },
+  {
+    "originalFileName": "Workshop mây tre đan Cẩm Thanh.png",
+    "localPath": "server/uploads/images/categories+workshops/Workshop mây tre đan Cẩm Thanh.png",
+    "type": "category",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135799/craftlocal/categories/Workshop_may_tre_dan_Cam_Thanh.png",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135799/craftlocal/categories/Workshop_may_tre_dan_Cam_Thanh.png",
+    "publicId": "craftlocal/categories/Workshop_may_tre_dan_Cam_Thanh"
+  },
+  {
+    "originalFileName": "Đan giỏ tre tại làng biển An Bàng, kết hợp tắm biển và trải nghiệm..jpg",
+    "localPath": "server/uploads/images/categories+workshops/Đan giỏ tre tại làng biển An Bàng, kết hợp tắm biển và trải nghiệm..jpg",
+    "type": "category",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135800/craftlocal/categories/Dan_gio_tre_tai_lang_bien_An_Bang_ket_hop_tam_bien_va_trai_nghiem.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135800/craftlocal/categories/Dan_gio_tre_tai_lang_bien_An_Bang_ket_hop_tam_bien_va_trai_nghiem.jpg",
+    "publicId": "craftlocal/categories/Dan_gio_tre_tai_lang_bien_An_Bang_ket_hop_tam_bien_va_trai_nghiem"
+  },
+  {
+    "originalFileName": "Điêu khắc đá.webp",
+    "localPath": "server/uploads/images/categories+workshops/Điêu khắc đá.webp",
+    "type": "category",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135801/craftlocal/categories/Dieu_khac_da.webp",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135801/craftlocal/categories/Dieu_khac_da.webp",
+    "publicId": "craftlocal/categories/Dieu_khac_da"
+  },
+  {
+    "originalFileName": "Đèn lồng.jpg",
+    "localPath": "server/uploads/images/categories+workshops/Đèn lồng.jpg",
+    "type": "category",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135802/craftlocal/categories/Den_long.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135802/craftlocal/categories/Den_long.jpg",
+    "publicId": "craftlocal/categories/Den_long"
+  },
+  {
+    "originalFileName": "Ẩm thực địa phương.jpg",
+    "localPath": "server/uploads/images/categories+workshops/Ẩm thực địa phương.jpg",
+    "type": "category",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135803/craftlocal/categories/Am_thuc_dia_phuong.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135803/craftlocal/categories/Am_thuc_dia_phuong.jpg",
+    "publicId": "craftlocal/categories/Am_thuc_dia_phuong"
+  },
+  {
+    "originalFileName": "Ẩm thực địa phương2.jpg",
+    "localPath": "server/uploads/images/categories+workshops/Ẩm thực địa phương2.jpg",
+    "type": "category",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135804/craftlocal/categories/Am_thuc_dia_phuong2.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1783135804/craftlocal/categories/Am_thuc_dia_phuong2.jpg",
+    "publicId": "craftlocal/categories/Am_thuc_dia_phuong2"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101545 (1).jpeg",
+    "localPath": "server/uploads/images/workshop/Trải nghiệm làm đèn lồng Hội An/đưa_về_dạng_1920_×_202607101545 (1).jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596808/craftlocal/workshops/dua_ve_dang_1920_202607101545_1_1784596805439.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596808/craftlocal/workshops/dua_ve_dang_1920_202607101545_1_1784596805439.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101545_1_1784596805439"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101545 (2).jpeg",
+    "localPath": "server/uploads/images/workshop/Trải nghiệm làm đèn lồng Hội An/đưa_về_dạng_1920_×_202607101545 (2).jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596809/craftlocal/workshops/dua_ve_dang_1920_202607101545_2_1784596809005.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596809/craftlocal/workshops/dua_ve_dang_1920_202607101545_2_1784596809005.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101545_2_1784596809005"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101545.jpeg",
+    "localPath": "server/uploads/images/workshop/Trải nghiệm làm đèn lồng Hội An/đưa_về_dạng_1920_×_202607101545.jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596810/craftlocal/workshops/dua_ve_dang_1920_202607101545_1784596809949.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596810/craftlocal/workshops/dua_ve_dang_1920_202607101545_1784596809949.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101545_1784596809949"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101334 (1).jpeg",
+    "localPath": "server/uploads/images/workshop/Lớp nấu ăn làng rau Trà Quế/đưa_về_dạng_1920_×_202607101334 (1).jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596811/craftlocal/workshops/dua_ve_dang_1920_202607101334_1_1784596811065.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596811/craftlocal/workshops/dua_ve_dang_1920_202607101334_1_1784596811065.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101334_1_1784596811065"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101334.jpeg",
+    "localPath": "server/uploads/images/workshop/Lớp nấu ăn làng rau Trà Quế/đưa_về_dạng_1920_×_202607101334.jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596812/craftlocal/workshops/dua_ve_dang_1920_202607101334_1784596812182.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596812/craftlocal/workshops/dua_ve_dang_1920_202607101334_1784596812182.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101334_1784596812182"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101335.jpeg",
+    "localPath": "server/uploads/images/workshop/Lớp nấu ăn làng rau Trà Quế/đưa_về_dạng_1920_×_202607101335.jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596814/craftlocal/workshops/dua_ve_dang_1920_202607101335_1784596813516.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596814/craftlocal/workshops/dua_ve_dang_1920_202607101335_1784596813516.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101335_1784596813516"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101701 (1).jpeg",
+    "localPath": "server/uploads/images/workshop/Workshop cà phê phin và thảo mộc/đưa_về_dạng_1920_×_202607101701 (1).jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596815/craftlocal/workshops/dua_ve_dang_1920_202607101701_1_1784596814667.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596815/craftlocal/workshops/dua_ve_dang_1920_202607101701_1_1784596814667.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101701_1_1784596814667"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101701 (2).jpeg",
+    "localPath": "server/uploads/images/workshop/Workshop cà phê phin và thảo mộc/đưa_về_dạng_1920_×_202607101701 (2).jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596816/craftlocal/workshops/dua_ve_dang_1920_202607101701_2_1784596815813.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596816/craftlocal/workshops/dua_ve_dang_1920_202607101701_2_1784596815813.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101701_2_1784596815813"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101701.jpeg",
+    "localPath": "server/uploads/images/workshop/Workshop cà phê phin và thảo mộc/đưa_về_dạng_1920_×_202607101701.jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596817/craftlocal/workshops/dua_ve_dang_1920_202607101701_1784596817188.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596817/craftlocal/workshops/dua_ve_dang_1920_202607101701_1784596817188.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101701_1784596817188"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101245 (1).jpeg",
+    "localPath": "server/uploads/images/workshop/Đèn lồng lụa cao cấp/đưa_về_dạng_1920_×_202607101245 (1).jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596818/craftlocal/workshops/dua_ve_dang_1920_202607101245_1_1784596818185.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596818/craftlocal/workshops/dua_ve_dang_1920_202607101245_1_1784596818185.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101245_1_1784596818185"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101245.jpeg",
+    "localPath": "server/uploads/images/workshop/Đèn lồng lụa cao cấp/đưa_về_dạng_1920_×_202607101245.jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596819/craftlocal/workshops/dua_ve_dang_1920_202607101245_1784596819249.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596819/craftlocal/workshops/dua_ve_dang_1920_202607101245_1784596819249.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101245_1784596819249"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101246.jpeg",
+    "localPath": "server/uploads/images/workshop/Đèn lồng lụa cao cấp/đưa_về_dạng_1920_×_202607101246.jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596821/craftlocal/workshops/dua_ve_dang_1920_202607101246_1784596820671.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596821/craftlocal/workshops/dua_ve_dang_1920_202607101246_1784596820671.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101246_1784596820671"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101352 (1).jpeg",
+    "localPath": "server/uploads/images/workshop/Nấu phở truyền thống/đưa_về_dạng_1920_×_202607101352 (1).jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596822/craftlocal/workshops/dua_ve_dang_1920_202607101352_1_1784596821868.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596822/craftlocal/workshops/dua_ve_dang_1920_202607101352_1_1784596821868.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101352_1_1784596821868"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101352 (2).jpeg",
+    "localPath": "server/uploads/images/workshop/Nấu phở truyền thống/đưa_về_dạng_1920_×_202607101352 (2).jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596823/craftlocal/workshops/dua_ve_dang_1920_202607101352_2_1784596822846.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596823/craftlocal/workshops/dua_ve_dang_1920_202607101352_2_1784596822846.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101352_2_1784596822846"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101352.jpeg",
+    "localPath": "server/uploads/images/workshop/Nấu phở truyền thống/đưa_về_dạng_1920_×_202607101352.jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596824/craftlocal/workshops/dua_ve_dang_1920_202607101352_1784596823943.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596824/craftlocal/workshops/dua_ve_dang_1920_202607101352_1784596823943.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101352_1784596823943"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101550 (1).jpeg",
+    "localPath": "server/uploads/images/workshop/Trải nghiệm làm gốm Thanh Hà/đưa_về_dạng_1920_×_202607101550 (1).jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596825/craftlocal/workshops/dua_ve_dang_1920_202607101550_1_1784596825003.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596825/craftlocal/workshops/dua_ve_dang_1920_202607101550_1_1784596825003.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101550_1_1784596825003"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101550 (2).jpeg",
+    "localPath": "server/uploads/images/workshop/Trải nghiệm làm gốm Thanh Hà/đưa_về_dạng_1920_×_202607101550 (2).jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596826/craftlocal/workshops/dua_ve_dang_1920_202607101550_2_1784596826296.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596826/craftlocal/workshops/dua_ve_dang_1920_202607101550_2_1784596826296.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101550_2_1784596826296"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101550.jpeg",
+    "localPath": "server/uploads/images/workshop/Trải nghiệm làm gốm Thanh Hà/đưa_về_dạng_1920_×_202607101550.jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596828/craftlocal/workshops/dua_ve_dang_1920_202607101550_1784596827544.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596828/craftlocal/workshops/dua_ve_dang_1920_202607101550_1784596827544.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101550_1784596827544"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101706.jpeg",
+    "localPath": "server/uploads/images/workshop/Workshop điêu khắc đá Non Nước/đưa_về_dạng_1920_×_202607101706.jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596829/craftlocal/workshops/dua_ve_dang_1920_202607101706_1784596828658.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596829/craftlocal/workshops/dua_ve_dang_1920_202607101706_1784596828658.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101706_1784596828658"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101707 (1).jpeg",
+    "localPath": "server/uploads/images/workshop/Workshop điêu khắc đá Non Nước/đưa_về_dạng_1920_×_202607101707 (1).jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596830/craftlocal/workshops/dua_ve_dang_1920_202607101707_1_1784596829811.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596830/craftlocal/workshops/dua_ve_dang_1920_202607101707_1_1784596829811.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101707_1_1784596829811"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101707.jpeg",
+    "localPath": "server/uploads/images/workshop/Workshop điêu khắc đá Non Nước/đưa_về_dạng_1920_×_202607101707.jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596831/craftlocal/workshops/dua_ve_dang_1920_202607101707_1784596831006.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596831/craftlocal/workshops/dua_ve_dang_1920_202607101707_1784596831006.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101707_1784596831006"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101525 (1).jpeg",
+    "localPath": "server/uploads/images/workshop/Tour ẩm thực biển Mỹ Khê/đưa_về_dạng_1920_×_202607101525 (1).jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596832/craftlocal/workshops/dua_ve_dang_1920_202607101525_1_1784596832157.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596832/craftlocal/workshops/dua_ve_dang_1920_202607101525_1_1784596832157.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101525_1_1784596832157"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101525 (2).jpeg",
+    "localPath": "server/uploads/images/workshop/Tour ẩm thực biển Mỹ Khê/đưa_về_dạng_1920_×_202607101525 (2).jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596833/craftlocal/workshops/dua_ve_dang_1920_202607101525_2_1784596833317.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596833/craftlocal/workshops/dua_ve_dang_1920_202607101525_2_1784596833317.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101525_2_1784596833317"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101525.jpeg",
+    "localPath": "server/uploads/images/workshop/Tour ẩm thực biển Mỹ Khê/đưa_về_dạng_1920_×_202607101525.jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596835/craftlocal/workshops/dua_ve_dang_1920_202607101525_1784596834480.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596835/craftlocal/workshops/dua_ve_dang_1920_202607101525_1784596834480.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101525_1784596834480"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101656 (1).jpeg",
+    "localPath": "server/uploads/images/workshop/Trải nghiệm văn hóa Ngũ Hành Sơn/đưa_về_dạng_1920_×_202607101656 (1).jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596836/craftlocal/workshops/dua_ve_dang_1920_202607101656_1_1784596836046.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596836/craftlocal/workshops/dua_ve_dang_1920_202607101656_1_1784596836046.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101656_1_1784596836046"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101656 (2).jpeg",
+    "localPath": "server/uploads/images/workshop/Trải nghiệm văn hóa Ngũ Hành Sơn/đưa_về_dạng_1920_×_202607101656 (2).jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596837/craftlocal/workshops/dua_ve_dang_1920_202607101656_2_1784596837101.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596837/craftlocal/workshops/dua_ve_dang_1920_202607101656_2_1784596837101.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101656_2_1784596837101"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101656.jpeg",
+    "localPath": "server/uploads/images/workshop/Trải nghiệm văn hóa Ngũ Hành Sơn/đưa_về_dạng_1920_×_202607101656.jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596839/craftlocal/workshops/dua_ve_dang_1920_202607101656_1784596838596.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596839/craftlocal/workshops/dua_ve_dang_1920_202607101656_1784596838596.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101656_1784596838596"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101607 (1).jpeg",
+    "localPath": "server/uploads/images/workshop/Trải nghiệm trà đạo Việt Nam/đưa_về_dạng_1920_×_202607101607 (1).jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596840/craftlocal/workshops/dua_ve_dang_1920_202607101607_1_1784596840285.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596840/craftlocal/workshops/dua_ve_dang_1920_202607101607_1_1784596840285.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101607_1_1784596840285"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101607 (2).jpeg",
+    "localPath": "server/uploads/images/workshop/Trải nghiệm trà đạo Việt Nam/đưa_về_dạng_1920_×_202607101607 (2).jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596842/craftlocal/workshops/dua_ve_dang_1920_202607101607_2_1784596841629.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596842/craftlocal/workshops/dua_ve_dang_1920_202607101607_2_1784596841629.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101607_2_1784596841629"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101607.jpeg",
+    "localPath": "server/uploads/images/workshop/Trải nghiệm trà đạo Việt Nam/đưa_về_dạng_1920_×_202607101607.jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596843/craftlocal/workshops/dua_ve_dang_1920_202607101607_1784596842720.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596843/craftlocal/workshops/dua_ve_dang_1920_202607101607_1784596842720.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101607_1784596842720"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101519 (1).jpeg",
+    "localPath": "server/uploads/images/workshop/Tạc tượng Phật đá mini/đưa_về_dạng_1920_×_202607101519 (1).jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596844/craftlocal/workshops/dua_ve_dang_1920_202607101519_1_1784596844127.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596844/craftlocal/workshops/dua_ve_dang_1920_202607101519_1_1784596844127.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101519_1_1784596844127"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101519 (2).jpeg",
+    "localPath": "server/uploads/images/workshop/Tạc tượng Phật đá mini/đưa_về_dạng_1920_×_202607101519 (2).jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596845/craftlocal/workshops/dua_ve_dang_1920_202607101519_2_1784596845270.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596845/craftlocal/workshops/dua_ve_dang_1920_202607101519_2_1784596845270.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101519_2_1784596845270"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101519.jpeg",
+    "localPath": "server/uploads/images/workshop/Tạc tượng Phật đá mini/đưa_về_dạng_1920_×_202607101519.jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596846/craftlocal/workshops/dua_ve_dang_1920_202607101519_1784596846414.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596846/craftlocal/workshops/dua_ve_dang_1920_202607101519_1784596846414.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101519_1784596846414"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101709 (1).jpeg",
+    "localPath": "server/uploads/images/workshop/Workshop mây tre đan Cẩm Thanh/đưa_về_dạng_1920_×_202607101709 (1).jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596848/craftlocal/workshops/dua_ve_dang_1920_202607101709_1_1784596847578.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596848/craftlocal/workshops/dua_ve_dang_1920_202607101709_1_1784596847578.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101709_1_1784596847578"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101709.jpeg",
+    "localPath": "server/uploads/images/workshop/Workshop mây tre đan Cẩm Thanh/đưa_về_dạng_1920_×_202607101709.jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596849/craftlocal/workshops/dua_ve_dang_1920_202607101709_1784596848936.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596849/craftlocal/workshops/dua_ve_dang_1920_202607101709_1784596848936.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101709_1784596848936"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101710.jpeg",
+    "localPath": "server/uploads/images/workshop/Workshop mây tre đan Cẩm Thanh/đưa_về_dạng_1920_×_202607101710.jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596850/craftlocal/workshops/dua_ve_dang_1920_202607101710_1784596849966.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596850/craftlocal/workshops/dua_ve_dang_1920_202607101710_1784596849966.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101710_1784596849966"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101704 (1).jpeg",
+    "localPath": "server/uploads/images/workshop/Workshop dệt vải và thổ cẩm/đưa_về_dạng_1920_×_202607101704 (1).jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596851/craftlocal/workshops/dua_ve_dang_1920_202607101704_1_1784596851196.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596851/craftlocal/workshops/dua_ve_dang_1920_202607101704_1_1784596851196.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101704_1_1784596851196"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101704 (2).jpeg",
+    "localPath": "server/uploads/images/workshop/Workshop dệt vải và thổ cẩm/đưa_về_dạng_1920_×_202607101704 (2).jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596852/craftlocal/workshops/dua_ve_dang_1920_202607101704_2_1784596852297.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596852/craftlocal/workshops/dua_ve_dang_1920_202607101704_2_1784596852297.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101704_2_1784596852297"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101704.jpeg",
+    "localPath": "server/uploads/images/workshop/Workshop dệt vải và thổ cẩm/đưa_về_dạng_1920_×_202607101704.jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596853/craftlocal/workshops/dua_ve_dang_1920_202607101704_1784596853331.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596853/craftlocal/workshops/dua_ve_dang_1920_202607101704_1784596853331.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101704_1784596853331"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101234.jpeg",
+    "localPath": "server/uploads/images/workshop/Đan thuyền thúng Cẩm Kim/đưa_về_dạng_1920_×_202607101234.jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596855/craftlocal/workshops/dua_ve_dang_1920_202607101234_1784596854485.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596855/craftlocal/workshops/dua_ve_dang_1920_202607101234_1784596854485.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101234_1784596854485"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101235.jpeg",
+    "localPath": "server/uploads/images/workshop/Đan thuyền thúng Cẩm Kim/đưa_về_dạng_1920_×_202607101235.jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596856/craftlocal/workshops/dua_ve_dang_1920_202607101235_1784596855694.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596856/craftlocal/workshops/dua_ve_dang_1920_202607101235_1784596855694.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101235_1784596855694"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101236.jpeg",
+    "localPath": "server/uploads/images/workshop/Đan thuyền thúng Cẩm Kim/đưa_về_dạng_1920_×_202607101236.jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596857/craftlocal/workshops/dua_ve_dang_1920_202607101236_1784596856849.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596857/craftlocal/workshops/dua_ve_dang_1920_202607101236_1784596856849.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101236_1784596856849"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101249 (1).jpeg",
+    "localPath": "server/uploads/images/workshop/Gốm nghệ thuật đương đại/đưa_về_dạng_1920_×_202607101249 (1).jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596858/craftlocal/workshops/dua_ve_dang_1920_202607101249_1_1784596858040.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596858/craftlocal/workshops/dua_ve_dang_1920_202607101249_1_1784596858040.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101249_1_1784596858040"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101249 (2).jpeg",
+    "localPath": "server/uploads/images/workshop/Gốm nghệ thuật đương đại/đưa_về_dạng_1920_×_202607101249 (2).jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596860/craftlocal/workshops/dua_ve_dang_1920_202607101249_2_1784596859837.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596860/craftlocal/workshops/dua_ve_dang_1920_202607101249_2_1784596859837.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101249_2_1784596859837"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101249.jpeg",
+    "localPath": "server/uploads/images/workshop/Gốm nghệ thuật đương đại/đưa_về_dạng_1920_×_202607101249.jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596861/craftlocal/workshops/dua_ve_dang_1920_202607101249_1784596861111.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596861/craftlocal/workshops/dua_ve_dang_1920_202607101249_1784596861111.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101249_1784596861111"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101715 (1).jpeg",
+    "localPath": "server/uploads/images/workshop/Workshop sơn mài và tranh thủ công/đưa_về_dạng_1920_×_202607101715 (1).jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596862/craftlocal/workshops/dua_ve_dang_1920_202607101715_1_1784596862400.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596862/craftlocal/workshops/dua_ve_dang_1920_202607101715_1_1784596862400.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101715_1_1784596862400"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101715 (2).jpeg",
+    "localPath": "server/uploads/images/workshop/Workshop sơn mài và tranh thủ công/đưa_về_dạng_1920_×_202607101715 (2).jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596863/craftlocal/workshops/dua_ve_dang_1920_202607101715_2_1784596863421.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596863/craftlocal/workshops/dua_ve_dang_1920_202607101715_2_1784596863421.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101715_2_1784596863421"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101715.jpeg",
+    "localPath": "server/uploads/images/workshop/Workshop sơn mài và tranh thủ công/đưa_về_dạng_1920_×_202607101715.jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596865/craftlocal/workshops/dua_ve_dang_1920_202607101715_1784596864562.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596865/craftlocal/workshops/dua_ve_dang_1920_202607101715_1784596864562.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101715_1784596864562"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101312 (1).jpeg",
+    "localPath": "server/uploads/images/workshop/Lớp bánh mì Việt Nam truyền thống/đưa_về_dạng_1920_×_202607101312 (1).jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596866/craftlocal/workshops/dua_ve_dang_1920_202607101312_1_1784596865958.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596866/craftlocal/workshops/dua_ve_dang_1920_202607101312_1_1784596865958.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101312_1_1784596865958"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101312 (2).jpeg",
+    "localPath": "server/uploads/images/workshop/Lớp bánh mì Việt Nam truyền thống/đưa_về_dạng_1920_×_202607101312 (2).jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596867/craftlocal/workshops/dua_ve_dang_1920_202607101312_2_1784596867102.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596867/craftlocal/workshops/dua_ve_dang_1920_202607101312_2_1784596867102.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101312_2_1784596867102"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101312.jpeg",
+    "localPath": "server/uploads/images/workshop/Lớp bánh mì Việt Nam truyền thống/đưa_về_dạng_1920_×_202607101312.jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596868/craftlocal/workshops/dua_ve_dang_1920_202607101312_1784596868137.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596868/craftlocal/workshops/dua_ve_dang_1920_202607101312_1784596868137.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101312_1784596868137"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101225.jpeg",
+    "localPath": "server/uploads/images/workshop/đan giỏ tre An Bàng/đưa_về_dạng_1920_×_202607101225.jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596869/craftlocal/workshops/dua_ve_dang_1920_202607101225_1784596869247.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596869/craftlocal/workshops/dua_ve_dang_1920_202607101225_1784596869247.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101225_1784596869247"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101226.jpeg",
+    "localPath": "server/uploads/images/workshop/đan giỏ tre An Bàng/đưa_về_dạng_1920_×_202607101226.jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596870/craftlocal/workshops/dua_ve_dang_1920_202607101226_1784596870349.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596870/craftlocal/workshops/dua_ve_dang_1920_202607101226_1784596870349.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101226_1784596870349"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101227.jpeg",
+    "localPath": "server/uploads/images/workshop/đan giỏ tre An Bàng/đưa_về_dạng_1920_×_202607101227.jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596872/craftlocal/workshops/dua_ve_dang_1920_202607101227_1784596871389.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596872/craftlocal/workshops/dua_ve_dang_1920_202607101227_1784596871389.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101227_1784596871389"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101659 (1).jpeg",
+    "localPath": "server/uploads/images/workshop/Vẽ tranh phố cổ Hội An/đưa_về_dạng_1920_×_202607101659 (1).jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596873/craftlocal/workshops/dua_ve_dang_1920_202607101659_1_1784596872950.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596873/craftlocal/workshops/dua_ve_dang_1920_202607101659_1_1784596872950.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101659_1_1784596872950"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101659 (2).jpeg",
+    "localPath": "server/uploads/images/workshop/Vẽ tranh phố cổ Hội An/đưa_về_dạng_1920_×_202607101659 (2).jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596874/craftlocal/workshops/dua_ve_dang_1920_202607101659_2_1784596874407.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596874/craftlocal/workshops/dua_ve_dang_1920_202607101659_2_1784596874407.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101659_2_1784596874407"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101659.jpeg",
+    "localPath": "server/uploads/images/workshop/Vẽ tranh phố cổ Hội An/đưa_về_dạng_1920_×_202607101659.jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596875/craftlocal/workshops/dua_ve_dang_1920_202607101659_1784596875401.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596875/craftlocal/workshops/dua_ve_dang_1920_202607101659_1784596875401.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101659_1784596875401"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101712 (1).jpeg",
+    "localPath": "server/uploads/images/workshop/Workshop nhuộm vải tự nhiên Nam Ô/đưa_về_dạng_1920_×_202607101712 (1).jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596876/craftlocal/workshops/dua_ve_dang_1920_202607101712_1_1784596876511.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596876/craftlocal/workshops/dua_ve_dang_1920_202607101712_1_1784596876511.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101712_1_1784596876511"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101712 (2).jpeg",
+    "localPath": "server/uploads/images/workshop/Workshop nhuộm vải tự nhiên Nam Ô/đưa_về_dạng_1920_×_202607101712 (2).jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596878/craftlocal/workshops/dua_ve_dang_1920_202607101712_2_1784596877559.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596878/craftlocal/workshops/dua_ve_dang_1920_202607101712_2_1784596877559.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101712_2_1784596877559"
+  },
+  {
+    "originalFileName": "đưa_về_dạng_1920_×_202607101712.jpeg",
+    "localPath": "server/uploads/images/workshop/Workshop nhuộm vải tự nhiên Nam Ô/đưa_về_dạng_1920_×_202607101712.jpeg",
+    "type": "workshop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596879/craftlocal/workshops/dua_ve_dang_1920_202607101712_1784596878862.jpg",
+    "secureUrl": "https://res.cloudinary.com/dqkclqqlw/image/upload/v1784596879/craftlocal/workshops/dua_ve_dang_1920_202607101712_1784596878862.jpg",
+    "publicId": "craftlocal/workshops/dua_ve_dang_1920_202607101712_1784596878862"
+  }
+]

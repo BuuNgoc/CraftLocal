@@ -1,0 +1,138 @@
+{
+  "testedAt": "2026-07-08T06:37:42.648Z",
+  "totalTests": 26,
+  "passed": 26,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Domain Guard blocks OUT_OF_DOMAIN: \"ronaldo ở đâu\"",
+      "status": "PASS",
+      "details": "OK"
+    },
+    {
+      "name": "Domain Guard blocks OUT_OF_DOMAIN: \"ronaldo bị loại chưa\"",
+      "status": "PASS",
+      "details": "OK"
+    },
+    {
+      "name": "Domain Guard blocks OUT_OF_DOMAIN: \"messi là ai\"",
+      "status": "PASS",
+      "details": "OK"
+    },
+    {
+      "name": "Domain Guard blocks OUT_OF_DOMAIN: \"viết code sort array\"",
+      "status": "PASS",
+      "details": "OK"
+    },
+    {
+      "name": "Domain Guard blocks OUT_OF_DOMAIN: \"thời tiết đà nẵng hôm nay\"",
+      "status": "PASS",
+      "details": "OK"
+    },
+    {
+      "name": "Domain Guard blocks OUT_OF_DOMAIN: \"bitcoin hôm nay tăng không\"",
+      "status": "PASS",
+      "details": "OK"
+    },
+    {
+      "name": "Domain Guard blocks OUT_OF_DOMAIN: \"giải bài toán 2x + 1 = 5\"",
+      "status": "PASS",
+      "details": "OK"
+    },
+    {
+      "name": "Domain Guard allows IN_DOMAIN: \"gợi ý workshop ở Hội An\"",
+      "status": "PASS",
+      "details": "OK"
+    },
+    {
+      "name": "Domain Guard allows IN_DOMAIN: \"tìm workshop làm gốm dưới 500k\"",
+      "status": "PASS",
+      "details": "OK"
+    },
+    {
+      "name": "Domain Guard allows IN_DOMAIN: \"tạo lịch trình 1 ngày ở Đà Nẵng\"",
+      "status": "PASS",
+      "details": "OK"
+    },
+    {
+      "name": "Domain Guard allows IN_DOMAIN: \"tôi muốn đăng ký làm chủ xưởng\"",
+      "status": "PASS",
+      "details": "OK"
+    },
+    {
+      "name": "Domain Guard allows IN_DOMAIN: \"thanh toán payOS bị lỗi\"",
+      "status": "PASS",
+      "details": "OK"
+    },
+    {
+      "name": "Domain Guard allows IN_DOMAIN: \"vé QR ở đâu\"",
+      "status": "PASS",
+      "details": "OK"
+    },
+    {
+      "name": "NLU classifies \"tìm workshop rẻ nhất\" as FIND_CHEAPEST_WORKSHOPS",
+      "status": "PASS",
+      "details": "OK"
+    },
+    {
+      "name": "NLU classifies \"Workshop làm gốm giá bao nhiêu?\" as ASK_WORKSHOP_PRICE",
+      "status": "PASS",
+      "details": "OK"
+    },
+    {
+      "name": "NLU parses \"tạo lịch trình 1 ngày ở Hội An\" correctly",
+      "status": "PASS",
+      "details": "OK"
+    },
+    {
+      "name": "NLU parses \"viết mô tả workshop làm gốm\" correctly",
+      "status": "PASS",
+      "details": "OK"
+    },
+    {
+      "name": "Query Planner for \"workshop rẻ nhất ở Huế\"",
+      "status": "PASS",
+      "details": "OK"
+    },
+    {
+      "name": "Query Planner for \"workshop dưới 500k ở Hội An\"",
+      "status": "PASS",
+      "details": "OK"
+    },
+    {
+      "name": "Validation Guard correctly filters location, maxPrice, status, and applies limits/sort",
+      "status": "PASS",
+      "details": "OK"
+    },
+    {
+      "name": "Recommendation engine sorts results by price ASC when resultMode is CHEAPEST",
+      "status": "PASS",
+      "details": "OK"
+    },
+    {
+      "name": "Recommendation engine does not return duplicate workshop IDs",
+      "status": "PASS",
+      "details": "OK"
+    },
+    {
+      "name": "Itinerary Engine returns timeline and estimated budget",
+      "status": "PASS",
+      "details": "OK"
+    },
+    {
+      "name": "Description Writer generates multiple versions of description",
+      "status": "PASS",
+      "details": "OK"
+    },
+    {
+      "name": "Idempotency check returns identical reply for identical clientMessageId",
+      "status": "PASS",
+      "details": "OK"
+    },
+    {
+      "name": "Idempotency check prevents duplicate AIMessage creation in DB",
+      "status": "PASS",
+      "details": "OK"
+    }
+  ]
+}
